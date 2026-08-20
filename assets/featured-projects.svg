@@ -1,0 +1,55 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#10192E"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <text x="42" y="48" fill="#F8FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700">Featured Projects</text>
+  <text x="42" y="72" fill="#A8D8F8" font-family="Segoe UI, Arial, sans-serif" font-size="14">Projetos públicos em destaque no seu portfólio GitHub</text>
+  <g transform="translate(36 102)">
+    <rect width="250" height="200" rx="22" fill="#101B30" stroke="url(#edge)"/>
+    <text x="22" y="36" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">TRT CRM Pro</text>
+    <text x="22" y="62" fill="#A7D9FF" font-family="Segoe UI, Arial, sans-serif" font-size="12">Sistema / CRM / Gestão</text>
+    <text x="22" y="98" fill="#D7E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="13">• Gestão e produtividade</text>
+    <text x="22" y="122" fill="#D7E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="13">• Estrutura voltada a uso real</text>
+    <text x="22" y="146" fill="#D7E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="13">• Projeto de portfólio profissional</text>
+    <rect x="22" y="164" width="86" height="26" rx="13" fill="#0E2A4A"/>
+    <text x="45" y="182" fill="#7DE7FF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">CRM</text>
+  </g>
+  <g transform="translate(325 102)">
+    <rect width="250" height="200" rx="22" fill="#101B30" stroke="url(#edge)"/>
+    <text x="22" y="36" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">Otimiza</text>
+    <text x="22" y="62" fill="#A7D9FF" font-family="Segoe UI, Arial, sans-serif" font-size="12">Otimização / Ferramentas</text>
+    <text x="22" y="98" fill="#D7E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="13">• Eficiência e desempenho</text>
+    <text x="22" y="122" fill="#D7E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="13">• Produtividade e automação</text>
+    <text x="22" y="146" fill="#D7E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="13">• Solução prática</text>
+    <rect x="22" y="164" width="108" height="26" rx="13" fill="#172847"/>
+    <text x="44" y="182" fill="#C7A9FF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">AUTOMATION</text>
+  </g>
+  <g transform="translate(614 102)">
+    <rect width="250" height="200" rx="22" fill="#101B30" stroke="url(#edge)"/>
+    <text x="22" y="36" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">MemPure</text>
+    <text x="22" y="62" fill="#A7D9FF" font-family="Segoe UI, Arial, sans-serif" font-size="12">Utilitário / Desempenho</text>
+    <text x="22" y="98" fill="#D7E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="13">• Utilitário enxuto</text>
+    <text x="22" y="122" fill="#D7E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="13">• Ferramenta rápida e direta</text>
+    <text x="22" y="146" fill="#D7E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="13">• Variedade no portfólio</text>
+    <rect x="22" y="164" width="92" height="26" rx="13" fill="#0E2A4A"/>
+    <text x="42" y="182" fill="#7DE7FF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">UTILITY</text>
+  </g>
+  <g transform="translate(903 102)">
+    <rect width="250" height="200" rx="22" fill="#101B30" stroke="url(#edge)"/>
+    <text x="22" y="36" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">SGI</text>
+    <text x="22" y="62" fill="#A7D9FF" font-family="Segoe UI, Arial, sans-serif" font-size="12">Sistema / Estrutura</text>
+    <text x="22" y="98" fill="#D7E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="13">• Projeto complementar</text>
+    <text x="22" y="122" fill="#D7E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="13">• Consistência técnica</text>
+    <text x="22" y="146" fill="#D7E8FF" font-family="Segoe UI, Arial, sans-serif" font-size="13">• Mais uma peça do portfólio</text>
+    <rect x="22" y="164" width="76" height="26" rx="13" fill="#172847"/>
+    <text x="47" y="182" fill="#C7A9FF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">SYSTEM</text>
+  </g>
+</svg>
