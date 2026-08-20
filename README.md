@@ -55,21 +55,99 @@ Gosto de transformar ideias em soluções práticas: sistemas, ferramentas de pr
 
 ---
 
+## 🏆 Formação & Credenciais
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### ☁️ AWS Cloud Practitioner
+**Em preparação**
+
+Cloud fundamentals • Security • Billing • Core Services
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🎓 Sistemas de Informação
+**Graduação em andamento**
+
+Software • Dados • Redes • Gestão • Sistemas
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🤖 IA & Automação
+**Trilha contínua**
+
+Agentes • Automação • Produtividade • Integrações
+
+</td>
+</tr>
+</table>
+
+---
+
+## ☁️ Arquitetura AWS
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/main/assets/aws-architecture.svg" alt="Arquitetura AWS" />
+</div>
+
+---
+
 ## 🚀 Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 [TRT CRM Pro 4.0 Ultimate](https://github.com/ThalesTeracin/trt-crm-pro-4.0-ultimate)
+Sistema de CRM e gestão com foco em organização, produtividade e uso prático.
+
+`CRM` `Gestão` `Software`
+
+➡️ **[Ver projeto](https://github.com/ThalesTeracin/trt-crm-pro-4.0-ultimate)**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [Otimiza](https://github.com/ThalesTeracin/Otimiza)
+Projeto voltado a otimização, eficiência e automação de tarefas no ambiente Windows.
+
+`Automação` `Performance` `Windows`
+
+➡️ **[Ver projeto](https://github.com/ThalesTeracin/Otimiza)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [MemPure](https://github.com/ThalesTeracin/mempure)
+Utilitário enxuto focado em desempenho, memória e produtividade.
+
+`Utility` `Performance` `Tools`
+
+➡️ **[Ver projeto](https://github.com/ThalesTeracin/mempure)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ [SGI](https://github.com/ThalesTeracin/SGI)
+Projeto de sistema que complementa o portfólio técnico e mostra evolução em desenvolvimento.
+
+`Sistema` `Desenvolvimento` `Portfolio`
+
+➡️ **[Ver projeto](https://github.com/ThalesTeracin/SGI)**
+
+</td>
+</tr>
+</table>
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/main/assets/featured-projects.svg" alt="Projetos em destaque" />
 </div>
-
-<p align="center">
-  <a href="https://github.com/ThalesTeracin/trt-crm-pro-4.0-ultimate"><b>TRT CRM Pro 4.0 Ultimate</b></a>
-  •
-  <a href="https://github.com/ThalesTeracin/Otimiza"><b>Otimiza</b></a>
-  •
-  <a href="https://github.com/ThalesTeracin/mempure"><b>MemPure</b></a>
-  •
-  <a href="https://github.com/ThalesTeracin/SGI"><b>SGI</b></a>
-</p>
 
 ---
 
