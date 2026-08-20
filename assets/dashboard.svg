@@ -1,0 +1,11 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="250"><stop stop-color="#08111F"/><stop offset="1" stop-color="#0A1627"/></linearGradient></defs>
+<rect width="1200" height="250" rx="24" fill="url(#bg)"/>
+<text x="50" y="55" fill="#F8FAFC" font-size="27" font-weight="700" font-family="Segoe UI,Arial">Developer Dashboard</text>
+<text x="50" y="82" fill="#64748B" font-size="14" font-family="Segoe UI,Arial">Current public profile snapshot</text>
+
+<g><rect x="50" y="115" width="250" height="90" rx="16" fill="#0F1D31" stroke="#2563EB" stroke-opacity="0.5"/><text x="75" y="150" fill="#60A5FA" font-size="13" font-family="Segoe UI">PUBLIC REPOSITORIES</text><text x="75" y="187" fill="#F8FAFC" font-size="32" font-weight="700" font-family="Segoe UI">7</text></g>
+<g><rect x="325" y="115" width="250" height="90" rx="16" fill="#0F1D31" stroke="#8B5CF6" stroke-opacity="0.5"/><text x="350" y="150" fill="#C4B5FD" font-size="13" font-family="Segoe UI">PROFILE STARS</text><text x="350" y="187" fill="#F8FAFC" font-size="32" font-weight="700" font-family="Segoe UI">2</text></g>
+<g><rect x="600" y="115" width="250" height="90" rx="16" fill="#0F1D31" stroke="#06B6D4" stroke-opacity="0.5"/><text x="625" y="150" fill="#67E8F9" font-size="13" font-family="Segoe UI">FOLLOWERS</text><text x="625" y="187" fill="#F8FAFC" font-size="32" font-weight="700" font-family="Segoe UI">1</text></g>
+<g><rect x="875" y="115" width="275" height="90" rx="16" fill="#0F1D31" stroke="#14B8A6" stroke-opacity="0.5"/><text x="900" y="150" fill="#5EEAD4" font-size="13" font-family="Segoe UI">PRIMARY DIRECTION</text><text x="900" y="187" fill="#F8FAFC" font-size="23" font-weight="700" font-family="Segoe UI">Cloud + AI</text></g>
+</svg>
