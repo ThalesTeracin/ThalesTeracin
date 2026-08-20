@@ -194,7 +194,7 @@ Projeto de sistema que complementa o portfólio técnico e mostra evolução em 
 <a href="https://portfolio-thales-teracin.thrteracin.chatgpt.site/">
   <img src="https://img.shields.io/badge/PORTFÓLIO-PROFISSIONAL-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio Profissional" />
 </a>
-<a href="https://www.linkedin.com/in/thales-renato-teracin/">
+<a href="https://www.linkedin.com/in/thalesteracin">
   <img src="https://img.shields.io/badge/LinkedIn-Thales%20Teracin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/ThalesTeracin">
