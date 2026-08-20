@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;AWS+%7C+Cloud+%7C+Python+%7C+JavaScript+%7C+IA;Automa%C3%A7%C3%A3o%2C+backend+e+projetos+que+resolvem+problemas+reais;Construindo+um+perfil+cada+vez+mais+forte+na+tecnologia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;AWS+%7C+Cloud+%7C+Python+%7C+JavaScript+%7C+IA;Automa%C3%A7%C3%A3o%2C+backend+e+projetos+que+resolvem+problemas+reais;Construindo+um+perfil+cada+vez+mais+forte+na+tecnologia" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -91,7 +91,7 @@ Agentes • Automação • Produtividade • Integrações
 ## ☁️ Arquitetura AWS
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/main/assets/aws-architecture.svg" alt="Arquitetura AWS" />
+<img width="100%" src="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/main/assets/aws-architecture.svg" alt="Arquitetura AWS" />
 </div>
 
 ---
@@ -146,7 +146,7 @@ Projeto de sistema que complementa o portfólio técnico e mostra evolução em 
 </table>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/main/assets/featured-projects.svg" alt="Projetos em destaque" />
+<img width="100%" src="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/main/assets/featured-projects.svg" alt="Projetos em destaque" />
 </div>
 
 ---
@@ -157,6 +157,11 @@ Projeto de sistema que complementa o portfólio técnico e mostra evolução em 
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ThalesTeracin&bg_color=08111F&color=7DD3FC&line=22D3EE&point=A78BFA&area=true&area_color=0EA5E9&hide_border=true&radius=16" alt="Gráfico de atividades" />
 
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ThalesTeracin&show_icons=true&hide_border=true&bg_color=08111F&title_color=22D3EE&text_color=7DD3FC&icon_color=A78BFA&ring_color=0EA5E9" alt="Estatísticas GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesTeracin&layout=compact&hide_border=true&bg_color=08111F&title_color=22D3EE&text_color=7DD3FC&langs_count=8" alt="Top linguagens" />
+
 </div>
 
 ---
@@ -166,9 +171,9 @@ Projeto de sistema que complementa o portfólio técnico e mostra evolução em 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação das contribuições" src="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/output/github-contribution-grid-snake.svg" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/output/github-contribution-grid-snake.svg" />
+<img alt="Animação das contribuições" src="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -178,11 +183,11 @@ Projeto de sistema que complementa o portfólio técnico e mostra evolução em 
 ## 🛰️ Tech Mission
 
 ```text
-☁️ CLOUD MISSION      → aprofundar AWS e serviços de infraestrutura
-💻 SOFTWARE MISSION   → criar aplicações robustas, úteis e bem estruturadas
-🤖 AI MISSION         → explorar agentes inteligentes e automação real
-⚙️ PRODUCTIVITY       → desenvolver soluções que economizam tempo
-📈 CAREER BUILDING    → transformar estudo em portfólio forte e oportunidades
+☁️ CLOUD MISSION → aprofundar AWS e serviços de infraestrutura
+💻 SOFTWARE MISSION → criar aplicações robustas, úteis e bem estruturadas
+🤖 AI MISSION → explorar agentes inteligentes e automação real
+⚙️ PRODUCTIVITY → desenvolver soluções que economizam tempo
+📈 CAREER BUILDING → transformar estudo em portfólio forte e oportunidades
 ```
 
 ---
@@ -192,13 +197,13 @@ Projeto de sistema que complementa o portfólio técnico e mostra evolução em 
 <div align="center">
 
 <a href="https://portfolio-thales-teracin.thrteracin.chatgpt.site/">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-PROFISSIONAL-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio Profissional" />
+<img src="https://img.shields.io/badge/PORTFÓLIO-PROFISSIONAL-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio Profissional" />
 </a>
 <a href="https://www.linkedin.com/in/thalesteracin">
-  <img src="https://img.shields.io/badge/LinkedIn-Thales%20Teracin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Thales%20Teracin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/ThalesTeracin">
-  <img src="https://img.shields.io/badge/GitHub-ThalesTeracin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-ThalesTeracin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
