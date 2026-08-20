@@ -1,0 +1,122 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="0.5" stop-color="#0A2A47"/>
+      <stop offset="1" stop-color="#091B31"/>
+    </linearGradient>
+    <linearGradient id="lineGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00D1FF"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="chipGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1CE0FF"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="cloudGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#25D0FF"/>
+      <stop offset="1" stop-color="#4F46E5"/>
+    </linearGradient>
+    <filter id="blurGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <circle cx="980" cy="70" r="120" fill="#1E40AF" opacity="0.18"/>
+  <circle cx="170" cy="55" r="140" fill="#06B6D4" opacity="0.10"/>
+  <circle cx="640" cy="280" r="170" fill="#7C3AED" opacity="0.07"/>
+
+  <g opacity="0.08">
+    <path d="M0 250H1200" stroke="white"/>
+    <path d="M0 210H1200" stroke="white"/>
+    <path d="M0 170H1200" stroke="white"/>
+    <path d="M0 130H1200" stroke="white"/>
+    <path d="M0 90H1200" stroke="white"/>
+    <path d="M0 50H1200" stroke="white"/>
+    <path d="M100 0V340" stroke="white"/>
+    <path d="M220 0V340" stroke="white"/>
+    <path d="M340 0V340" stroke="white"/>
+    <path d="M460 0V340" stroke="white"/>
+    <path d="M580 0V340" stroke="white"/>
+    <path d="M700 0V340" stroke="white"/>
+    <path d="M820 0V340" stroke="white"/>
+    <path d="M940 0V340" stroke="white"/>
+    <path d="M1060 0V340" stroke="white"/>
+  </g>
+
+  <text x="60" y="92" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">Thales Renato Teracin</text>
+  <text x="62" y="126" fill="#9ED9FF" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Cloud • AWS • IA • Desenvolvimento • Automação</text>
+  <text x="62" y="162" fill="#D6E8FF" opacity="0.92" font-family="Segoe UI, Arial, sans-serif" font-size="16">Construindo soluções reais com nuvem, inteligência artificial e engenharia de software.</text>
+
+  <g>
+    <rect x="62" y="198" width="86" height="30" rx="15" fill="#0F2740" stroke="#16D9FF" stroke-opacity="0.6"/>
+    <text x="87" y="218" fill="#DFFBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">AWS</text>
+    <rect x="158" y="198" width="74" height="30" rx="15" fill="#0F2740" stroke="#9F67FF" stroke-opacity="0.65"/>
+    <text x="182" y="218" fill="#EEE4FF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">AI</text>
+    <rect x="242" y="198" width="126" height="30" rx="15" fill="#0F2740" stroke="#1CE0FF" stroke-opacity="0.55"/>
+    <text x="267" y="218" fill="#DFFBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Automation</text>
+  </g>
+
+  <g transform="translate(865 92)" filter="url(#blurGlow)">
+    <path d="M36 62C18 62 4 48 4 31C4 14 18 0 36 0C48 0 58 6 64 16C68 14 73 13 78 13C97 13 112 28 112 46C112 64 97 78 78 78H36C17 78 2 64 2 46" fill="url(#cloudGrad)" opacity="0.95"/>
+    <path d="M24 96C45 109 70 115 97 109" stroke="#FF9900" stroke-width="6" stroke-linecap="round"/>
+    <path d="M88 105L101 108L93 96" fill="#FF9900"/>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="865 92;865 86;865 92" dur="4.5s" repeatCount="indefinite"/>
+  </g>
+
+  <g transform="translate(980 160)" filter="url(#blurGlow)">
+    <rect x="0" y="0" width="104" height="104" rx="18" fill="#0F1730" stroke="url(#chipGrad)" stroke-width="3"/>
+    <rect x="24" y="24" width="56" height="56" rx="12" fill="url(#chipGrad)" opacity="0.95"/>
+    <text x="52" y="60" text-anchor="middle" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">AI</text>
+    <g stroke="#6FE8FF" stroke-width="3" stroke-linecap="round">
+      <path d="M-10 22H0"/><path d="M-10 42H0"/><path d="M-10 62H0"/><path d="M-10 82H0"/>
+      <path d="M104 22H114"/><path d="M104 42H114"/><path d="M104 62H114"/><path d="M104 82H114"/>
+      <path d="M22 -10V0"/><path d="M42 -10V0"/><path d="M62 -10V0"/><path d="M82 -10V0"/>
+      <path d="M22 104V114"/><path d="M42 104V114"/><path d="M62 104V114"/><path d="M82 104V114"/>
+    </g>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="980 160;980 154;980 160" dur="3.6s" repeatCount="indefinite"/>
+  </g>
+
+  <g opacity="0.85" filter="url(#blurGlow)">
+    <path d="M390 240C470 190 550 190 620 230C720 286 810 280 930 218" stroke="url(#lineGlow)" stroke-width="3" fill="none" stroke-dasharray="8 7"/>
+    <circle cx="392" cy="240" r="4" fill="#1CE0FF"/>
+    <circle cx="621" cy="230" r="4" fill="#8B5CF6"/>
+    <circle cx="930" cy="218" r="5" fill="#1CE0FF"/>
+  </g>
+
+  <g>
+    <path d="M40 286H1160" stroke="#24445F" stroke-width="4" stroke-linecap="round"/>
+    <path d="M40 286H1160" stroke="url(#lineGlow)" stroke-opacity="0.45" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="120" cy="286" r="3.5" fill="#19E3FF" opacity="0.85"/>
+    <circle cx="290" cy="286" r="3.5" fill="#19E3FF" opacity="0.7"/>
+    <circle cx="480" cy="286" r="3.5" fill="#19E3FF" opacity="0.7"/>
+    <circle cx="690" cy="286" r="3.5" fill="#8B5CF6" opacity="0.7"/>
+    <circle cx="890" cy="286" r="3.5" fill="#19E3FF" opacity="0.7"/>
+    <circle cx="1060" cy="286" r="3.5" fill="#19E3FF" opacity="0.85"/>
+  </g>
+
+  <g id="rover" transform="translate(95 242)">
+    <rect x="0" y="12" width="72" height="28" rx="12" fill="#0E2037" stroke="#37D8FF" stroke-width="2.5"/>
+    <rect x="18" y="0" width="28" height="18" rx="8" fill="#132C4C" stroke="#8B5CF6" stroke-width="2"/>
+    <circle cx="18" cy="44" r="9" fill="#0B1322" stroke="#D7F9FF" stroke-width="2"/>
+    <circle cx="54" cy="44" r="9" fill="#0B1322" stroke="#D7F9FF" stroke-width="2"/>
+    <circle cx="18" cy="44" r="3" fill="#19E3FF"/>
+    <circle cx="54" cy="44" r="3" fill="#19E3FF"/>
+    <path d="M72 22H86" stroke="#72F2FF" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="90" cy="22" r="4" fill="#8B5CF6"/>
+    <rect x="24" y="18" width="24" height="10" rx="5" fill="#19E3FF" opacity="0.85"/>
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" values="95 242;1010 242;95 242" dur="14s" repeatCount="indefinite"/>
+  </g>
+
+  <g>
+    <circle cx="760" cy="74" r="3" fill="#19E3FF"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="785" cy="94" r="2.8" fill="#8B5CF6"><animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="736" cy="118" r="2.8" fill="#19E3FF"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="809" cy="132" r="3" fill="#8B5CF6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.1s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
