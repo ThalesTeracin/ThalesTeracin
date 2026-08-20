@@ -157,6 +157,11 @@ Projeto de sistema que complementa o portfólio técnico e mostra evolução em 
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ThalesTeracin&bg_color=08111F&color=7DD3FC&line=22D3EE&point=A78BFA&area=true&area_color=0EA5E9&hide_border=true&radius=16" alt="Gráfico de atividades" />
 
+<br/>
+
+<img height="165" src="https://github-readme-stats-nine-gilt-58.vercel.app/api?username=ThalesTeracin&show_icons=true&hide_border=true&bg_color=08111F&title_color=22D3EE&text_color=7DD3FC&icon_color=A78BFA&ring_color=0EA5E9" alt="Estatísticas GitHub" />
+<img height="165" src="https://github-readme-stats-nine-gilt-58.vercel.app/api/top-langs/?username=ThalesTeracin&layout=compact&hide_border=true&bg_color=08111F&title_color=22D3EE&text_color=7DD3FC&langs_count=8" alt="Top linguagens" />
+
 </div>
 
 ---
