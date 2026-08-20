@@ -191,11 +191,21 @@ Projeto de sistema que complementa o portfólio técnico e mostra evolução em 
 
 <div align="center">
 
+<a href="https://portfolio-thales-teracin.thrteracin.chatgpt.site/">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-PROFISSIONAL-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio Profissional" />
+</a>
+<a href="https://www.linkedin.com/in/thales-renato-teracin/">
+  <img src="https://img.shields.io/badge/LinkedIn-Thales%20Teracin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="https://github.com/ThalesTeracin">
-  <img src="https://img.shields.io/badge/GitHub-ThalesTeracin-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-ThalesTeracin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
+
+**🌐 [Acessar meu portfólio completo](https://portfolio-thales-teracin.thrteracin.chatgpt.site/)**
+
+<br/>
 
 <i>“Tecnologia boa não é a que impressiona só no visual; é a que resolve, automatiza e abre caminho.”</i>
 
