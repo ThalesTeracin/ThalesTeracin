@@ -136,7 +136,7 @@ Sistema que registra minha evolução prática em desenvolvimento.
 
 <br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ThalesTeracin&bg_color=0D1117&color=FFFFFF&line=00FF88&point=00FF88&area=true&area_color=008F5A&hide_border=true" alt="Gráfico de atividades" />
+<img width="96%" src="https://streak-stats.demolab.com/?user=ThalesTeracin&background=0D1117&border=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" alt="Streak de contribuições" />
 
 </div>
 
