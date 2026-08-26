@@ -78,6 +78,10 @@ Sou **Thales Renato Teracin**, estudante de **Sistemas de Informação**, com fo
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/ThalesTeracin/trt-crm-pro-4.0-ultimate">
+<img width="100%" src="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/main/assets/thumb-crm.svg" alt="Thumbnail TRT CRM Pro 4.0 Ultimate" />
+</a>
+
 ### 🧩 [TRT CRM Pro 4.0 Ultimate](https://github.com/ThalesTeracin/trt-crm-pro-4.0-ultimate)
 Sistema de CRM e gestão com foco em organização e produtividade.
 
@@ -87,6 +91,10 @@ Sistema de CRM e gestão com foco em organização e produtividade.
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/ThalesTeracin/Otimiza">
+<img width="100%" src="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/main/assets/thumb-otimiza.svg" alt="Thumbnail Otimiza" />
+</a>
 
 ### ⚡ [Otimiza](https://github.com/ThalesTeracin/Otimiza)
 Projeto voltado à otimização, eficiência e automação no Windows.
@@ -100,6 +108,10 @@ Projeto voltado à otimização, eficiência e automação no Windows.
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/ThalesTeracin/mempure">
+<img width="100%" src="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/main/assets/thumb-mempure.svg" alt="Thumbnail MemPure" />
+</a>
+
 ### 🧠 [MemPure](https://github.com/ThalesTeracin/mempure)
 Utilitário focado em desempenho, memória e produtividade.
 
@@ -109,6 +121,10 @@ Utilitário focado em desempenho, memória e produtividade.
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://github.com/ThalesTeracin/SGI">
+<img width="100%" src="https://raw.githubusercontent.com/ThalesTeracin/ThalesTeracin/main/assets/thumb-sgi.svg" alt="Thumbnail SGI" />
+</a>
 
 ### 🛠️ [SGI](https://github.com/ThalesTeracin/SGI)
 Sistema que registra minha evolução prática em desenvolvimento.
