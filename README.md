@@ -3,7 +3,7 @@
 
   <p>
     <a href="https://www.linkedin.com/in/thalesteracin">LinkedIn</a> ·
-    <a href="https://thalesteracin.link/">Cartão digital</a> ·
+    <a href="./CONTATO.md">Cartão digital</a> ·
     <a href="https://portfolio-thales-teracin.thrteracin.chatgpt.site/">Portfólio</a> ·
     <a href="mailto:thrteracin@gmail.com">E-mail</a>
   </p>
