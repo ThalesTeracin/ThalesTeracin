@@ -1,0 +1,16 @@
+
+/* TRT provider availability monitor */
+.trt-health-heading{display:flex;justify-content:space-between;gap:16px;align-items:flex-start;flex-wrap:wrap}
+.trt-health-heading h2{display:flex;align-items:center;gap:9px}
+.trt-health-heading .muted{max-width:760px}
+.trt-health-summary{display:flex;gap:14px;flex-wrap:wrap;margin:18px 0;font-weight:600}
+.trt-health-summary span{display:flex;align-items:center;gap:7px}
+.trt-health-auto{display:flex;gap:9px;align-items:center;margin-bottom:12px;font-size:13px}
+.trt-health-list{display:grid;gap:8px}
+.trt-health-row{display:grid;grid-template-columns:minmax(150px,1fr) minmax(170px,1fr);gap:16px;align-items:center;border:1px solid rgba(132,158,190,.15);border-radius:10px;padding:12px}
+.trt-health-row>div{display:flex;flex-direction:column;gap:4px;min-width:0}
+.trt-health-row small{overflow-wrap:anywhere;opacity:.77}
+.trt-health-result{align-items:flex-start}
+.trt-spin{animation:trt-spin 1.1s linear infinite}
+@keyframes trt-spin{to{transform:rotate(360deg)}}
+@media(max-width:650px){.trt-health-row{grid-template-columns:1fr}}

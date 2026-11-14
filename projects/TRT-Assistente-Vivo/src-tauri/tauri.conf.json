@@ -1,0 +1,41 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "TRT Assistente Vivo",
+  "version": "1.0.0",
+  "identifier": "br.trtinfo.assistentevivo.standalone",
+  "build": {
+    "beforeDevCommand": "npm run dev",
+    "devUrl": "http://localhost:1420",
+    "beforeBuildCommand": "npm run build",
+    "frontendDist": "../dist"
+  },
+  "app": {
+    "windows": [
+      {
+        "label": "main",
+        "title": "TRT Assistente Vivo - Independente",
+        "width": 410,
+        "height": 630,
+        "center": true,
+        "resizable": false,
+        "decorations": false,
+        "alwaysOnTop": true,
+        "backgroundColor": "#090e18"
+      }
+    ],
+    "security": {
+      "csp": "default-src 'self'; connect-src ipc: http://ipc.localhost https://api.open-meteo.com; img-src 'self' asset: http://asset.localhost data:; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com;"
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": [
+      "nsis"
+    ],
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/icon.ico"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+node_modules/
+dist/
+target/
+*.exe
+*.msi
+*.pdb
+.env
+.env.*
+!.env.example
+*.dpapi
+*.sqlite
+*.db
+secrets/
+logs/
+backups/
+data/
+config/private/
