@@ -18,12 +18,12 @@ Ao clonar, configure seus próprios provedores e chaves no aplicativo; chaves n�
 ## Build (Windows ARM64)
 Requisitos: Node.js, npm, Rust com target aarch64-pc-windows-msvc, SDK e toolchain ARM64 e LLVM/Clang.
 
-    npm ci
+    npm install
     npm run build
     npm run lint
     npm run tauri -- build --target aarch64-pc-windows-msvc --bundles nsis
 
-As dependências binárias, ícones Tauri ou scripts auxiliares podem exigir configuração adicional do ambiente. A versão executável foi compilada e testada no Windows ARM64 de desenvolvimento; o código publicado é uma cópia limpa sem artefatos pessoais.
+Dependências de build Windows ARM64 e ferramentas do sistema podem exigir configuração adicional do ambiente. A versão executável foi compilada e testada no Windows ARM64 de desenvolvimento; o código publicado é uma cópia limpa sem artefatos pessoais.
 
 ## Estrutura
 - src/: interface, avatar e voz
@@ -34,3 +34,7 @@ As dependências binárias, ícones Tauri ou scripts auxiliares podem exigir con
 O módulo compacto permite conversar. Ações de Windows são executadas no painel supervisionado mediante revisão e autorização; não há execução arbitrária de shell, alteração automática de BIOS ou submissão automática de formulários.
 
 **Projeto de Thales Renato Teracin.**
+
+## Executável
+
+O `.exe` e o instalador ARM64 permanecem na máquina de desenvolvimento, em `C:\\TRT-Assistente-Vivo-Standalone\\bin` e `C:\\TRT-Assistente-Vivo-Standalone\\installer`. O GitHub contém a cópia do código-fonte; o binário **não foi publicado neste repositório**. Compile com as instruções acima para gerar sua própria versão.
